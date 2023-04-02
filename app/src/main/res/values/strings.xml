@@ -1,0 +1,204 @@
+<resources>
+    <string name="app_name">thewatch_cst133_final_project</string>
+    <string-array name="neighborhoods">
+        <item>Adelaide/Churchill</item>
+        <item>Arbor Creek</item>
+        <item>Aspen Ridge</item>
+        <item>Avalon</item>
+        <item>Blairmore Urban Centre</item>
+        <item>Brevoort Park</item>
+        <item>Briarwood</item>
+        <item>Brighton</item>
+        <item>Buena Vista</item>
+        <item>Caswell Hill</item>
+        <item>City Park</item>
+        <item>College Park</item>
+        <item>College Park East</item>
+        <item>Confederation Park</item>
+        <item>Confederation Urban Centre</item>
+        <item>Downtown</item>
+        <item>Dundonald</item>
+        <item>Eastview</item>
+        <item>Erindale</item>
+        <item>Evergreen</item>
+        <item>Exhibition</item>
+        <item>Fairhaven</item>
+        <item>Forest Grove</item>
+        <item>Greystone Heights</item>
+        <item>Grosvenor Park</item>
+        <item>Hampton Village</item>
+        <item>Haultain</item>
+        <item>Holiday Park</item>
+        <item>Holliston</item>
+        <item>Hudson Bay Park</item>
+        <item>Kelsey - Woodlawn</item>
+        <item>Kensington</item>
+        <item>King George</item>
+        <item>Lakeridge</item>
+        <item>Lakeview</item>
+        <item>Lakewood Urban Centre</item>
+        <item>Lawson Heights</item>
+        <item>Lawson Heights Urban Centre</item>
+        <item>Massey Place</item>
+        <item>Mayfair</item>
+        <item>Meadowgreen</item>
+        <item>Montgomery Place</item>
+        <item>Mount Royal</item>
+        <item>North Park</item>
+        <item>Nutana</item>
+        <item>Nutana Park</item>
+        <item>Nutana Urban Centre</item>
+        <item>Pacific Heights</item>
+        <item>Parkridge</item>
+        <item>Pleasant Hill</item>
+        <item>Queen Elizabeth</item>
+        <item>Richmond Heights</item>
+        <item>River Heights</item>
+        <item>Riversdale</item>
+        <item>Rosewood</item>
+        <item>Silverspring</item>
+        <item>Silverwood Heights</item>
+        <item>Stonebridge</item>
+        <item>Sutherland</item>
+        <item>The Willows</item>
+        <item>U of S Lands South Management Area</item>
+        <item>University Heights Urban Centre</item>
+        <item>Varsity View</item>
+        <item>Westmount</item>
+        <item>Westview</item>
+        <item>Wildwood</item>
+        <item>Willowgrove</item>
+    </string-array>
+    <string-array name="neighborhoods2">
+        <item>Use my current location</item>
+        <item>Adelaide/Churchill</item>
+        <item>Arbor Creek</item>
+        <item>Aspen Ridge</item>
+        <item>Avalon</item>
+        <item>Blairmore Urban Centre</item>
+        <item>Brevoort Park</item>
+        <item>Briarwood</item>
+        <item>Brighton</item>
+        <item>Buena Vista</item>
+        <item>Caswell Hill</item>
+        <item>City Park</item>
+        <item>College Park</item>
+        <item>College Park East</item>
+        <item>Confederation Park</item>
+        <item>Confederation Urban Centre</item>
+        <item>Downtown</item>
+        <item>Dundonald</item>
+        <item>Eastview</item>
+        <item>Erindale</item>
+        <item>Evergreen</item>
+        <item>Exhibition</item>
+        <item>Fairhaven</item>
+        <item>Forest Grove</item>
+        <item>Greystone Heights</item>
+        <item>Grosvenor Park</item>
+        <item>Hampton Village</item>
+        <item>Haultain</item>
+        <item>Holiday Park</item>
+        <item>Holliston</item>
+        <item>Hudson Bay Park</item>
+        <item>Kelsey - Woodlawn</item>
+        <item>Kensington</item>
+        <item>King George</item>
+        <item>Lakeridge</item>
+        <item>Lakeview</item>
+        <item>Lakewood Urban Centre</item>
+        <item>Lawson Heights</item>
+        <item>Lawson Heights Urban Centre</item>
+        <item>Massey Place</item>
+        <item>Mayfair</item>
+        <item>Meadowgreen</item>
+        <item>Montgomery Place</item>
+        <item>Mount Royal</item>
+        <item>North Park</item>
+        <item>Nutana</item>
+        <item>Nutana Park</item>
+        <item>Nutana Urban Centre</item>
+        <item>Pacific Heights</item>
+        <item>Parkridge</item>
+        <item>Pleasant Hill</item>
+        <item>Queen Elizabeth</item>
+        <item>Richmond Heights</item>
+        <item>River Heights</item>
+        <item>Riversdale</item>
+        <item>Rosewood</item>
+        <item>Silverspring</item>
+        <item>Silverwood Heights</item>
+        <item>Stonebridge</item>
+        <item>Sutherland</item>
+        <item>The Willows</item>
+        <item>U of S Lands South Management Area</item>
+        <item>University Heights Urban Centre</item>
+        <item>Varsity View</item>
+        <item>Westmount</item>
+        <item>Westview</item>
+        <item>Wildwood</item>
+        <item>Willowgrove</item>
+    </string-array>
+    <string-array name="offences">
+        <item>Agra Offense</item>
+        <item>Animal Offenses</item>
+        <item>Arson</item>
+        <item>Assault</item>
+        <item>Attempted Murder</item>
+        <item>Attempted Robbery</item>
+        <item>Breach Conditions</item>
+        <item>Break And Enter</item>
+        <item>Bullying</item>
+        <item>Child Abuse</item>
+        <item>Child Exploitation</item>
+        <item>Complaints</item>
+        <item>Customs and Excise</item>
+        <item>Death</item>
+        <item>Driving Offence</item>
+        <item>Drugs</item>
+        <item>Drunk Driving</item>
+        <item>Facebook Suspect</item>
+        <item>Firearms and Weapons Offence</item>
+        <item>Fraud</item>
+        <item>Gang Activity</item>
+        <item>Graffiti</item>
+        <item>Hit And Run</item>
+        <item>Hit And Run Causing Death</item>
+        <item>Home Invasion</item>
+        <item>Homicide</item>
+        <item>Human Trafficking</item>
+        <item>Income Tax Act</item>
+        <item>Info Of Interest To Police</item>
+        <item>Kidnapping</item>
+        <item>Mischief</item>
+        <item>Missing Person</item>
+        <item>Murder</item>
+        <item>Noise Bylaw</item>
+        <item>Obstruction</item>
+        <item>Offenses Public Health, Safety/Morals</item>
+        <item>Poss Stln Property</item>
+        <item>Possession For The Purpose Of Trafficking</item>
+        <item>Property Damage</item>
+        <item>Prostitution</item>
+        <item>Public Health Order-Covid</item>
+        <item>Robbery</item>
+        <item>Scam (Telephone/Email)</item>
+        <item>Sell/Give Alcohol To Minor</item>
+        <item>Selling Tobacco To Young Person</item>
+        <item>Sexual Assault</item>
+        <item>Sexual Exploitation Of Young Person</item>
+        <item>SGI Fraud</item><item>Stolen Auto</item>
+        <item>Stolen Property</item>
+        <item>Suspicious Person/Vehicle</item>
+        <item>Terrorism</item>
+        <item>Theft</item>
+        <item>Theft of Bike(s)</item>
+        <item>Theft of Vehicle</item>
+        <item>Threats</item>
+        <item>Traff/Cult/Manu Narcotics</item>
+        <item>Traffic Safety Act</item>
+        <item>Wanted Person</item>
+        <item>Warrants</item>
+        <item>Weapons</item>
+    </string-array>
+</resources>
